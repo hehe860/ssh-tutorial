@@ -1,4 +1,4 @@
-name: SSH tutorial CI
+name: SSH tutorial
 on:
   push:
     branches:
